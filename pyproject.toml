@@ -7,7 +7,7 @@ authors = ["Origin Engineers"]
 [tool.poetry.dependencies]
 python = "^3.9"
 fastapi = { extras = ["all"], version = "^0.83.0" }
-requests = "^2.28.1"
+requests = "^2.31.0"
 
 [tool.poetry.dev-dependencies]
 
